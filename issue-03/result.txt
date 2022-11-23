@@ -1,0 +1,10 @@
+(base) MacBook-Pro-Ilya-2:issue-03 ilyasumernikov$ python3 -m unittest -v tests.py
+test_a_in_b (tests.TestFitTransform) ... ok
+test_equal (tests.TestFitTransform) ... ok
+test_not_equal (tests.TestFitTransform) ... ok
+test_not_iterable (tests.TestFitTransform) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+OK
